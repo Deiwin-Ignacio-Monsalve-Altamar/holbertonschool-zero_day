@@ -12,3 +12,7 @@ that  are  in  the  world  today
 =======
 [Holberton School] (https://www.holbertonschool.com)
 >>>>>>> 264cc762feb9a65392a798426a6938da7513bbb5
+
+'In the project important command is established to navigate in emacs and vi, Linux text editors
+
+You will find familiar script in the environment variable to have a better operation : )'
